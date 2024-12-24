@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "author": {
+            "avatarUrl": "https://example.com/avatar1.png",
+            "name": "John Doe",
+            "role": "Software Engineer"
+        },
+        "content": [
+            {"type": "paragraph", "content": "Excited to join this new platform!"},
+            {"type": "paragraph", "content": "Loving the features so far."},
+            {"type": "link", "content": "https://example.com/first-post"}
+        ],
+        "publishedAt": "2024-10-15T10:00:00Z"
+    },
+    {
+        "id": 2,
+        "author": {
+            "avatarUrl": "https://example.com/avatar2.png",
+            "name": "Alice Johnson",
+            "role": "Product Manager"
+        },
+        "content": [
+            {"type": "paragraph", "content": "Just had a great meeting with the dev team."},
+            {"type": "paragraph", "content": "Looking forward to the new release!"},
+            {"type": "link", "content": "https://example.com/team-meeting"}
+        ],
+        "publishedAt": "2024-10-16T09:30:00Z"
+    },
+    {
+        "id": 3,
+        "author": {
+            "avatarUrl": "https://example.com/avatar3.png",
+            "name": "Michael Smith",
+            "role": "Data Scientist"
+        },
+        "content": [
+            {"type": "paragraph", "content": "Data analysis is key to better product decisions."},
+            {"type": "paragraph", "content": "Here are some insights from our last project."},
+            {"type": "link", "content": "https://example.com/data-insights"}
+        ],
+        "publishedAt": "2024-10-17T14:45:00Z"
+    }
+]
